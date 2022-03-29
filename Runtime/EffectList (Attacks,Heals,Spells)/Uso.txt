@@ -1,0 +1,4 @@
+For an easier use, set healing effects as negative and resistance to healing as negative as well
+
+If that is confusing, you can create Effect Appliers that filter out healing effects and another
+Effect Applier that only takes healing effects.

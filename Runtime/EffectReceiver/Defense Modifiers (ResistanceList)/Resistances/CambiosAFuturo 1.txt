@@ -1,0 +1,3 @@
+Si se puede hacer que no se requiera que un script sea Monobehaviour 
+para que se asigne en inspector (a través de UnityScripting) entonces
+cambiar el llamado en Start de Reset por un Constructor.

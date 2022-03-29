@@ -1,3 +1,16 @@
 {
-	"name": "com.hypergnosys.effects"
+    "name": "com.hypergnosys.effects",
+    "rootNamespace": "",
+    "references": [
+        "GUID:96dde5c6a633b9b4cbf9b550836d9ac1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
 }

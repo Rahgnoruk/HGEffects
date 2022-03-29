@@ -18,5 +18,8 @@
       "url": "https://www.hypergnosys.com"
     },
     "dependencies": {
+    },
+    "gitDependencies": {
+      "com.hypergnosys.core": "https://github.com/Rahgnoruk/HGCodeBaseCore"
     }
   }
