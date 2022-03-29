@@ -1,0 +1,22 @@
+{
+    "name": "com.hypergnosys.effects",
+    "version": "1.0.0",
+    "displayName": "HGEffects",
+    "description": "Components for entities to receive helpful and harmful effects",
+    "unity": "2020.3",
+    "unityRelease": "11f1",
+    "documentationUrl": "https://github.com/Rahgnoruk/HGEffects",
+    "changelogUrl": "https://github.com/Rahgnoruk/HGEffects",
+    "licensesUrl": "https://github.com/Rahgnoruk/HGEffects",
+    "keywords": [
+      "HyperGnosys",
+      "Effects"
+    ],
+    "author": {
+      "name": "Sergio Raimond",
+      "email": "sergio.raimond@hypergnosys.com",
+      "url": "https://www.hypergnosys.com"
+    },
+    "dependencies": {
+    }
+  }
